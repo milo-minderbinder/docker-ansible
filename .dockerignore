@@ -1,0 +1,4 @@
+*.sw[po]
+.git
+.gitignore
+run-*.sh
